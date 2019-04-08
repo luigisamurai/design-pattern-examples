@@ -1,6 +1,6 @@
 # Designer Patterns
 
-The images (src/main/resource) and code were based from the book Head First Design Pattern by Elisabeth Robson; Kathy Sierra; Bert Bates; Eric Freeman Published by O'Reilly Media, Inc., 2004.
+The code were based from the book Head First Design Pattern by Elisabeth Robson; Kathy Sierra; Bert Bates; Eric Freeman Published by O'Reilly Media, Inc., 2004.
 
 ## Content
 
